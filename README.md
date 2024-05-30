@@ -3,10 +3,10 @@
 📫 How to reach me: anastasiia.radchenko2803@gmail.com
 
 ## Skills
-C
-C++
-Git
-Linux
+C<br>
+C++<br>
+Git<br>
+Linux<br>
 
 <!--
 **Aidan2803/Aidan2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
