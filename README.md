@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning embedded development, STM32 specifically
+🌱 I’m currently learning embedded development, STM32 specifically<br>
 📫 How to reach me: anastasiia.radchenko2803@gmail.com
 
 ## Skills
