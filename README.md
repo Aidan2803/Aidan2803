@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working on [Simple-Snake](https://github.com/Aidan2803/Simple-Snake)<br>
-🌱 I’m currently learning embedded development, STM32 specifically<br>
+🌱 I’m currently learning embedded development, Arduino and STM32 specifically<br>
 📫 How to reach me: anastasiia.radchenko2803@gmail.com
 
 ## Skills
