@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on [Network-Monitor](https://github.com/Aidan2803/Load-balancer)<br>
+🔭 I’m currently working on [Load-Balancer](https://github.com/Aidan2803/Load-balancer)<br>
 🌱 I’m currently learning embedded development (Arduino and STM32) and networking <br>
 📫 How to reach me: anastasiia.radchenko2803@gmail.com
 
