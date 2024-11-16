@@ -4,8 +4,8 @@
 📫 How to reach me: anastasiia.radchenko2803@gmail.com
 
 ## Skills
-C<br>
 C++<br>
+C<br>
 Git<br>
 Linux<br>
 
