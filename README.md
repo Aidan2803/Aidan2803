@@ -5,7 +5,7 @@
 
 ## Skills
 C/C++<br>
-Java, Spting, Hibernate<br>
+Java, Sping, Hibernate<br>
 PostgreSQL<br>
 Git<br>
 Linux<br>
