@@ -1,11 +1,12 @@
 ## Hi there 👋
-🔭 I’m currently working on [Load-Balancer](https://github.com/Aidan2803/Load-balancer)<br>
-🌱 I’m currently learning embedded development (Arduino and STM32) and networking <br>
+🔭 I’m currently working on [AI-Chat](https://github.com/Aidan2803/AI-Chat)<br>
+🌱 I'm currently diving into Java and the Spring ecosystem, while continuing to grow my C++ and cloud development skills
 📫 How to reach me: anastasiia.radchenko2803@gmail.com
 
 ## Skills
-C++<br>
-C<br>
+C/C++<br>
+Java, Spting, Hibernate<br>
+PostgreSQL<br>
 Git<br>
 Linux<br>
 CMake<br>
