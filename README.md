@@ -13,8 +13,6 @@ CMake<br>
 GTest<br>
 
 ## GitHub stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=aidan2803&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan2803&theme=vue-dark)
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aidan2803&theme=vue-dark)](https://github.com/aidan2803/github-readme-stats)
 
 ## Profile views
