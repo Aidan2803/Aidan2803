@@ -15,7 +15,7 @@ GTest<br>
 ## GitHub stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aidan2803&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan2803&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aidan2803)](https://github.com/aidan2803/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aidan2803&theme=vue-dark)](https://github.com/aidan2803/github-readme-stats)
 
 ## Profile views
 [![Anastasia Radchenko profile views](https://u8views.com/api/v1/github/profiles/42119559/views/day-week-month-total-count.svg)](https://u8views.com/github/Aidan2803)
